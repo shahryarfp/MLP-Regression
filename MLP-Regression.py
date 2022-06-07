@@ -16,7 +16,7 @@ import tensorflow as tf
 # # from sklearn.metrics import confusion_matrix
 # from sklearn import metrics
 # import seaborn as sns
-my_file = pd.read_csv('data.csv')
+my_file = pd.read_csv('MLP-Regression.csv')
 
 #displaying first 3 datas
 my_file.head(2)
